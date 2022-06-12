@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "captchaTaimer", "captchaTaimer\captchaTaimer.csproj", "{B0D38E0A-E9FA-48F7-B9D1-4BEF38383359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D38E0A-E9FA-48F7-B9D1-4BEF38383359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D38E0A-E9FA-48F7-B9D1-4BEF38383359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D38E0A-E9FA-48F7-B9D1-4BEF38383359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D38E0A-E9FA-48F7-B9D1-4BEF38383359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3CD5A4-850D-44FB-90DF-4B18566D9E0C}
+	EndGlobalSection
+EndGlobal

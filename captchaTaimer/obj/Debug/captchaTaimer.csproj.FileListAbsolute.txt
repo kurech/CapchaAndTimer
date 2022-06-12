@@ -1,0 +1,15 @@
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\bin\Debug\captchaTaimer.exe.config
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\bin\Debug\captchaTaimer.exe
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\bin\Debug\captchaTaimer.pdb
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer.csproj.AssemblyReference.cache
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\MainWindow.g.cs
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\App.g.cs
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer_MarkupCompile.cache
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer_MarkupCompile.lref
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\MainWindow.baml
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer.g.resources
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer.Properties.Resources.resources
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer.csproj.GenerateResource.cache
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer.csproj.CoreCompileInputs.cache
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer.exe
+C:\Users\ranel\source\repos\captchaTaimer\captchaTaimer\obj\Debug\captchaTaimer.pdb
